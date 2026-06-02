@@ -158,19 +158,19 @@ class AyushKulkarni:
 
 | Area | What I Built |
 |------|-------------|
-| 🏀 **Key Achievements** |MaP 50-90 of 98.5 , 97% overall extraction acuuracy , Real time Extration |
+| 🏀 **Key Achievements** | mAP50-95: **98.5%**, Overall Extraction Accuracy: **97%**, Real-Time Processing Pipeline |
 | 🧠 **SLM Fine-Tuning** | Parameter-efficient adaptation of Small Language Models with LoRA |
 | ⚙️ **Data Engineering** | Automated annotation workflows and high-throughput processing |
 | 🚀 **CV Pipelines** | High-performance, production-ready sports analytics pipeline|
 
-**Stack:** `YOLO``PyTorch` `LoRA` `OCR` `Computer Vision` `SLMs` `Python`
+**Stack:** `YOLO` `PyTorch` `LoRA` `OCR` `Computer Vision` `SLMs` `Python`
 
 </td>
 </tr>
 </table>
 </div>
 <br>
-<br>
+
 
 <!-- Projects -->
 ## 📂 Featured Projects
@@ -194,12 +194,15 @@ class AyushKulkarni:
 
 ### 🌐 MANET Routing Optimization — CRA Protocol
 
-> Developed a constraint-aware routing algorithm that outperformed existing MANET algorithms.
+> Developed a constraint-aware routing algorithm that outperformed existing MANET routing protocols.
 
-| Metric | Result |
-|---|---|
-| ⚡ Latency | Reduced by **52%** |
-| 🔁 Retries | Reduced by **92%** |
+🏆 **52% Lower Latency**
+
+🏆 **92.6% Fewer Retransmissions**
+
+🏆 **100% Packet Delivery Ratio**
+
+🏆 **Best Performance Among AODV, OLSR, ZRP and DSDV**
 
 ![MANET Benchmark Comparison](manet_comparison.png)
 
@@ -216,6 +219,23 @@ class AyushKulkarni:
 - 🔌 Plug-and-play architecture for seamless module testing
 
 `Unity` `Python` `C++`
+
+---
+### 📊 Intelligent Log Analysis Platform
+
+> AI-powered system for automated log monitoring, anomaly detection, and root-cause analysis.
+
+- 🗄️ Automated parsing of large-scale application logs
+- 🔍 Semantic search over logs using vector embeddings
+- 🧠 Root cause identification via LLM reasoning
+
+| Impact | |
+|---|---|
+| 🐛 Debugging | Reduced manual effort |
+| 🚨 Triaging | Faster incident response |
+| 👁️ Visibility | Improved operational observability |
+
+`Python` `Snowflake` `Vector DB`
 
 ---
 
@@ -237,23 +257,6 @@ class AyushKulkarni:
 
 ---
 
-### 📊 Intelligent Log Analysis Platform
-
-> AI-powered system for automated log monitoring, anomaly detection, and root-cause analysis.
-
-- 🗄️ Automated parsing of large-scale application logs
-- 🔍 Semantic search over logs using vector embeddings
-- 🧠 Root cause identification via LLM reasoning
-
-| Impact | |
-|---|---|
-| 🐛 Debugging | Reduced manual effort |
-| 🚨 Triaging | Faster incident response |
-| 👁️ Visibility | Improved operational observability |
-
-`Python` `Snowflake` `Vector DB`
-
----
 <div align="center">
 <h2>🔭 Open to Collaborate on </h2>
 
@@ -286,20 +289,18 @@ class AyushKulkarni:
 </td>
 </tr>
 </table>
+
 </div>
 <!-- Achievements -->
 <div align="center">
-<h2>🏆 ACHIEVEMENTS</h2>
-</div>
+<h2> Achievements</h2>
 
-<div align="center">
-
-|||
-|:---:|:---|
-| 📄 **IEEE Research Publication** | Karnaugh Map Simplification Research — Published at **ICEI 2026** |
-| 🔗 **IEEE Xplore** | [ieeexplore.ieee.org/document/11447840](https://ieeexplore.ieee.org/document/11447840) |
-| 🎓 Certifications | IBM Agentic Systems and Rag , Python for Machine Learning|                  
-| 🎓 **Academic Excellence** | CGPA **9.465 / 10** — Electronics & Computer Engineering |
+| Achievement | Details |
+|-------------|---------|
+| 📄 IEEE Publication | Karnaugh Map Simplification Research — Published at ICEI 2026 |
+| 🔗 IEEE Xplore | https://ieeexplore.ieee.org/document/11447840 |
+| 🎓 Certifications | IBM Agentic Systems & RAG, Python for Machine Learning |
+| 🏅 Academic Excellence | CGPA 9.465 / 10 |
 
 </div>
 
