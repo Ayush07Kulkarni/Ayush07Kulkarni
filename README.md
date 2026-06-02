@@ -146,7 +146,7 @@ class AyushKulkarni:
 <!-- Experience -->
 <div align="center">
 <h2>💼 EXPERIENCE</h2>
-</div>
+
 
 <table>
 <tr>
@@ -169,7 +169,7 @@ class AyushKulkarni:
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 <!-- Projects -->
@@ -241,7 +241,7 @@ class AyushKulkarni:
 ---
 <div align="center">
 <h2>🔭 Open to Collaborate on </h2>
-</div>
+
 
 <table>
 <tr>
@@ -271,6 +271,7 @@ class AyushKulkarni:
 </td>
 </tr>
 </table>
+</div>
 <!-- Achievements -->
 <div align="center">
 <h2>🏆 ACHIEVEMENTS</h2>
@@ -282,7 +283,7 @@ class AyushKulkarni:
 |:---:|:---|
 | 📄 **IEEE Research Publication** | Karnaugh Map Simplification Research — Published at **ICEI 2026** |
 | 🔗 **IEEE Xplore** | [ieeexplore.ieee.org/document/11447840](https://ieeexplore.ieee.org/document/11447840) |
-| 🎓 **Certifications | IBM Agentic Systems and Rag , Python for Machine Learning|                  
+| 🎓 Certifications | IBM Agentic Systems and Rag , Python for Machine Learning|                  
 | 🎓 **Academic Excellence** | CGPA **9.465 / 10** — Electronics & Computer Engineering |
 
 </div>
