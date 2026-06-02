@@ -2,9 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1&pause=100000&color=FFFF00&center=true&vCenter=true&width=900&lines=AYUSH+KULKARNI"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Electronics+%26+Computer+Engineer;Computer+Vision;Edge+AI;Agentic+Systems;Robotics"/>
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Electronics+%26+Computer+Engineer;Computer+Vision;Edge+AI;Agentic+Systems"/>
 
 <a href="https://www.linkedin.com/in/ayushkulkarni07">
 <img src="https://img.shields.io/badge/LinkedIn-Ayush_Kulkarni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
@@ -64,9 +62,6 @@ class AyushKulkarni:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
@@ -141,7 +136,6 @@ class AyushKulkarni:
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -213,8 +207,8 @@ class AyushKulkarni:
 
 **Stack:** `Unity` `Python` `C++`
 
-<details>
-<summary><b>🔍 ML Fraud Detection System</b></summary>
+
+🔍 ML Fraud Detection System
 <br/>
 
 > *End-to-end machine learning pipeline for financial anomaly detection*
