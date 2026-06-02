@@ -158,86 +158,101 @@ class AyushKulkarni:
 
 | Area | What I Built |
 |------|-------------|
-| 🏀 **Real-Time Detection** | YOLO-based gamebug detection pipeline for live basketball footage |
-| 📝 **OCR Pipelines** | Automated extraction of game info from scoreboards |
+| 🏀 **Key Achievements** |MaP 50-90 of 98.5 , 97% overall extraction acuuracy , Real time Extration |
 | 🧠 **SLM Fine-Tuning** | Parameter-efficient adaptation of Small Language Models with LoRA |
 | ⚙️ **Data Engineering** | Automated annotation workflows and high-throughput processing |
-| 🚀 **CV Pipelines** | High-performance, production-ready sports analytics systems |
+| 🚀 **CV Pipelines** | High-performance, production-ready sports analytics pipeline|
 
-**Stack:** `YOLO` `PyTorch` `LoRA` `OCR` `Computer Vision` `SLMs` `Python`
+**Stack:** `YOLO``PyTorch` `LoRA` `OCR` `Computer Vision` `SLMs` `Python`
 
 </td>
 </tr>
 </table>
 </div>
----
+<br>
+<br>
 
 <!-- Projects -->
-<div align="center">
-<h2>📂 FEATURED PROJECTS</h2>
-</div>
+## 📂 Featured Projects
 
-🤖 ARIA — Intelligent Multi-Agent AI Framework
-<br/>
+---
 
-> *Agentic AI assistant built on modern LLM orchestration principles*
+### 🧠ARIA - IOT CoPilot
 
-- **Multi-agent orchestration** with LangGraph / CrewAI
-- **Tool calling & workflow execution** — automated task pipelines
-- **Retrieval-Augmented Generation** — context-aware knowledge retrieval
-- **Modular architecture** — plug-and-play agent components
+> Agentic AI copilot for IoT environments built on modern LLM orchestration with persistent memory.
 
-**Stack:** `LangChain` `LangGraph` `ChromaDB` `FastAPI` `Python`
+| Highlight | Detail |
+|---|---|
+| 🧠 Persistent Memory | Reduced LLM calls by **20%** via memory-aware inference |
+| 🔗 Multi-agent | LangGraph / CrewAI orchestration |
+| 📚 RAG | Context-aware knowledge retrieval |
+| 🧩 Modular | Plug-and-play agent components |
+
+`CrewAI` `AWS Bedrock` `Chroma DB` `FastAPI` `Anthropic` `Redis` `Python`
+
+---
+
+### 🌐 MANET Routing Optimization — CRA Protocol
+
+> Developed a constraint-aware routing algorithm that outperformed existing MANET algorithms.
+
+| Metric | Result |
+|---|---|
+| ⚡ Latency | Reduced by **52%** |
+| 🔁 Retries | Reduced by **92%** |
+
+![MANET Benchmark Comparison](manet_comparison.png)
+
+`Network Simulation` `MANET` `Algorithm Design` `Python`
+
+---
+
+### 🚗 Autonomous Vehicle Simulation & Testing
+
+> Simulation environment for validating autonomous navigation under real-world conditions.
+
+- 🏎️ Real-world physics engine
+- 🗂️ Custom data generation
+- 🔌 Plug-and-play architecture for seamless module testing
+
+`Unity` `Python` `C++`
+
+---
+
+### 🔍 Credit Card Fraud Detection
+
+> End-to-end ML pipeline for financial anomaly detection. Used SMOTE to overcome class imbalance on highly skewed transaction data.
+
+| Metric | Score |
+|---|---|
+| 🎯 Recall | **96%** |
+| 📈 ROC-AUC | **0.97** |
+| ⚖️ Class Balance | SMOTE oversampling |
+
+- 🛠️ Domain-aware feature engineering on transaction patterns
+- 🌲 Ensemble models — XGBoost & Random Forest
 
 
-🌐 MANET Routing Optimization (CRA Protocol)
-<br/>
+`scikit-learn` `XGBoost` `FastAPI` `Python` `Pandas`
 
-**Stack:** `Network Simulation` `MANET` `Algorithm Design` `Python`
+---
 
+### 📊 Intelligent Log Analysis Platform
 
-🚗 Autonomous Vehicle Simulation & Testing
+> AI-powered system for automated log monitoring, anomaly detection, and root-cause analysis.
 
-> *Simulation environment for validating autonomous navigation*
+- 🗄️ Automated parsing of large-scale application logs
+- 🔍 Semantic search over logs using vector embeddings
+- 🧠 Root cause identification via LLM reasoning
 
-- **Real World Physics
-- **Custom Data Generation
-- **Plug and Play Architecture for Seamless Testing
+| Impact | |
+|---|---|
+| 🐛 Debugging | Reduced manual effort |
+| 🚨 Triaging | Faster incident response |
+| 👁️ Visibility | Improved operational observability |
 
+`Python` `Snowflake` `Vector DB`
 
-**Stack:** `Unity` `Python` `C++`
-
-
-🔍 ML Fraud Detection System
-<br/>
-
-> *End-to-end machine learning pipeline for financial anomaly detection*
-
-- **Feature Engineering** — Domain-aware transaction features
-- **Ensemble Models** — XGBoost, Random Forest
-- **Explainability** — SHAP-based decision transparency
-
-**Stack:** `scikit-learn` `XGBoost` `FastAPI` `Python` `Pandas`
-
-
-
-## 📊 Intelligent Log Analysis Platform
-
-> AI-powered system for automated log monitoring, anomaly detection and root-cause analysis.
-
-### Features
-
-- Automated parsing of large-scale application logs
-- Semantic search over logs using vector embeddings
-- Root cause identification using LLM reasoning
-
-### Impact
-
-- Reduced manual debugging effort
-- Faster incident triaging
-- Improved operational visibility
-
-**Stack:** `Python` 'Snowflake'
 ---
 <div align="center">
 <h2>🔭 Open to Collaborate on </h2>
